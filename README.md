@@ -4,6 +4,10 @@
 
 AlphaCAM add-in that optimizes the extraction of significant features from imported solids (such as those from AutoCAD, Inventor, etc.). This add-in will efficiently assign the most suitable operation and tool to each feature based on customer preferences, which can be conveniently defined through a user-friendly graphical user interface (GUI). The operations will be organized in an optimal sequence, prioritizing fewer tool changes and minimizing overall processing time.
 
+
+https://github.com/nicolazande/alphacam-est/assets/115359494/3012bf12-a217-4090-8c3e-d21bc221e032
+
+
 ## Features
 
 - **Feature Extraction**: Automatically identifies and extracts key features from imported solid models.
